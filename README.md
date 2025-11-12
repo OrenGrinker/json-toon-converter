@@ -7,6 +7,10 @@ PyPI Version: [json-toon-converter](https://pypi.org/project/json-toon-converter
 License: MIT License  
 Downloads: Available on [PyPI](https://pypi.org/project/json-toon-converter)
 
+[![PyPI version](https://badge.fury.io/py/json-toon-converter.svg)](https://badge.fury.io/py/json-toon-converter)
+[![Downloads](https://static.pepy.tech/badge/json-toon-converter)](https://pepy.tech/project/json-toon-converter)
+[![Python versions](https://img.shields.io/pypi/pyversions/json-toon-converter.svg)](https://pypi.org/project/json-toon-converter/)
+[![License](https://img.shields.io/pypi/l/json-toon-converter.svg)](https://pypi.org/project/json-toon-converter/)
 ## 🌟 Key Features
 
 - 🔄 **Bidirectional Conversion**: Convert **JSON to TOON** and **TOON to JSON** effortlessly.
